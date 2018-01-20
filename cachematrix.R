@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Functions to do a cache for matrix inverse
+
 
 ## Write a short comment describing this function
 
